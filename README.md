@@ -1,8 +1,7 @@
 # Gioco Puzzle colori
 
 ## 📝 Descrizione
-Questo è il mio Terzo progetto che ho realizzato dopo il corso di Front End Developer. 
-<br>Questo progetto rappresenta un esempio come manipolare elementi del DOM.</br>
+Questo progetto rappresenta un esempio come manipolare elementi del DOM.
 
 ## 🔧 Tecnologie utilizzate
 - HTML
