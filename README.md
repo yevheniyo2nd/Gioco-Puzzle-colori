@@ -2,8 +2,8 @@
 
 ## 📝 Descrizione
 Questo progetto rappresenta un esempio come manipolare elementi del DOM attraverso un semplice gioco dei colori.
-<br>Il gioco consiste nel scegliere il colore numerato e depositarlo sopra il quadrato con il numero identico del colore scelto</br>
-Una volta messi tutti i colori a loro posto il livello sarà completato.
+<br>Il gioco consiste nel scegliere il colore numerato e depositarlo sopra il quadrato con il numero identico del colore scelto, 
+una volta messi tutti i colori a loro posto il livello sarà completato.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
