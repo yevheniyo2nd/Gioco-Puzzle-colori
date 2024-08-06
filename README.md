@@ -7,9 +7,9 @@ una volta messi tutti i colori a loro posto il livello sarà completato.</br>
 
 ## 🔧 Tecnologie utilizzate
 - HTML
-- Tailwind CSS
+- CSS
 - JavaScript
-    - *Manipolazione del DOM*
+    - *DOM manipulation*
         - *addEventListener, getElementById, querySelector, querySelectorAll, arrow Function, forEach, setTimeout, createElement, contains, add, append, remove*
   
 ## 📥 Istruzioni per l'installazione
