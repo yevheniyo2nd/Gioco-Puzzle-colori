@@ -1,7 +1,7 @@
 # Gioco Puzzle colori
 
 ## 📝 Descrizione
-Questo progetto rappresenta un esempio come manipolare elementi del DOM.
+Questo progetto rappresenta un esempio come manipolare elementi del DOM attraverso un semplice gioco dei colori.
 
 ## 🔧 Tecnologie utilizzate
 - HTML
