@@ -36,7 +36,7 @@ una volta messi tutti i colori a loro posto il livello sarà completato.</br>
 <br>✅ Ottimo! Il progetto è stato copiato.</br>
 
 ## 🖱️ Istruzioni per l'uso
-Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
+Tutto il progetto è manipolabile con il Mouse `LMB - Left mouse button`.
 
 1. Selezionare livello (Barra `Levels` a sinistra)
 2. Selezionare il colore (Barra `Colors` a destra)
