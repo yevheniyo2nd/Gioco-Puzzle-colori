@@ -38,6 +38,6 @@ una volta messi tutti i colori a loro posto il livello sarà completato.</br>
 ## 🖱️ Istruzioni per l'uso
 Tutto il progetto è manipolabile con il Mouse (LMB - Left mouse button).
 
-1. Selezionare livello (Barra Levels a sinistra
-2. Selezionare il colore (Barra Colors a destra)
-3. Mettere il colore sul panello (Panello Game al centro)
+1. Selezionare livello (Barra `Levels` a sinistra)
+2. Selezionare il colore (Barra `Colors` a destra)
+3. Mettere il colore sul panello premendo il tasto `RMB - Right mouse button` (Panello `Game` al centro)
